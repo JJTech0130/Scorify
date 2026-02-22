@@ -143,3 +143,5 @@ require (
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
+
+replace github.com/scorify/mongodb => github.com/jjtech0130/scorify-mongodb v0.0.3
