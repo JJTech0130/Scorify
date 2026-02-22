@@ -25,7 +25,7 @@ require (
 	github.com/scorify/http v0.0.6
 	github.com/scorify/imap v0.0.0
 	github.com/scorify/ldap v0.0.3
-	github.com/scorify/mongodb v0.0.0
+	github.com/scorify/mongodb v0.0.2
 	github.com/scorify/mysql v0.0.2
 	github.com/scorify/nc v0.0.0
 	github.com/scorify/ping v1.0.2
